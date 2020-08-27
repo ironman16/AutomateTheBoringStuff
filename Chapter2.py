@@ -1,4 +1,7 @@
-import random, sys, os, math
+import random
+import sys
+import os
+import math
 print("hello everyone")
 total = 0
 for num in range(101):
