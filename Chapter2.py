@@ -1,4 +1,4 @@
-import random
+import random, sys, os, math
 print("hello everyone")
 total = 0
 for num in range(101):
@@ -7,3 +7,4 @@ print(total)
 
 for i in range(5):
     print(random.randint(1, 10))
+print(abs(-18))
